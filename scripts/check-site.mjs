@@ -121,6 +121,19 @@ try {
   report('all 7 featured photo roles hydrate; hero crop stays in CSS and lower images lazy-load');
   report('responsive photo assets exist; static and hydrated featured srcsets have distinct positive widths');
 
+  // A high-resolution source must not turn its HTML height into the rendered frame height.
+  for (const image of all('.stay-photography img, .dining-layout img, .gallery-item img')) {
+    const imageStyle = window.getComputedStyle(image);
+    assert.equal(imageStyle.height, 'auto', 'Photo frame must override the source height attribute');
+    assert.ok(imageStyle.aspectRatio && imageStyle.aspectRatio !== 'auto', 'Photo frame needs a controlled ratio');
+  }
+  for (const image of all('.pool-section img, .location-photo > img')) {
+    assert.equal(window.getComputedStyle(image).position, 'absolute', 'Photo must fill its bounded section frame');
+    assert.equal(window.getComputedStyle(image).height, '100%');
+  }
+  assert.equal(window.getComputedStyle(query('.gallery-item')).alignSelf, 'start');
+  report('high-resolution photo dimensions cannot expand editorial or gallery frames');
+
   for (const link of all('[data-phone]')) assert.equal(link.getAttribute('href'), hotel.phoneHref);
   for (const label of all('[data-phone-label]')) assert.equal(label.textContent, hotel.phone);
   for (const link of all('[data-directions]')) {

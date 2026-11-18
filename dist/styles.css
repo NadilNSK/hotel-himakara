@@ -35,6 +35,13 @@
 
 .no-js .gallery-toolbar,.no-js #gallery-more{display:none}
 
+/* Photo frames control layout independently of the source file resolution. */
+img{height:auto}
+.pool-section figure{position:relative;overflow:hidden}
+.pool-section img,.location-photo>img{position:absolute;inset:0;width:100%;height:100%;aspect-ratio:auto}
+.gallery-item{display:flex;flex-direction:column;align-self:start}
+.gallery-caption{width:100%}
+
 /* The recovered full-resolution exterior is wider than the supplied thumbnail. */
 @media(max-width:600px){.hero-image{object-position:82% 50%}}
 
