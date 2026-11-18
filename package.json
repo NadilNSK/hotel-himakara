@@ -1,0 +1,14 @@
+{
+  "name": "hotel-himakara",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Hotel Himakara — a responsive, photography-led hotel website",
+  "scripts": {
+    "dev": "node scripts/serve.mjs",
+    "check": "node --check dist/app.js && node --check dist/hotel-data.js",
+    "test": "node scripts/check-site.mjs"
+  },
+  "devDependencies": {
+    "happy-dom": "^21.0.4"
+  }
+}

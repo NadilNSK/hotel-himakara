@@ -1,0 +1,510 @@
+{
+  "sourceArchive": "D:\\Down\\Hotel Himakara - Google Maps.zip",
+  "sourceFileCount": 43,
+  "uniquePhotoCount": 30,
+  "processing": "Supplied JPEG pixels preserved. Duplicate Google photo tokens removed; best available source variant selected. No upscaling, generated pixels, retouching, or removal of image watermarks. Existing source files are already small mobile-friendly JPEGs.",
+  "resolutionNote": "These are saved Google Maps thumbnails, not full-resolution originals. Wide exterior photographs are only 219 x 156 pixels. Largest image is one room photograph at 397 x 298. Use original high-resolution photos when available.",
+  "recommendations": {
+    "hero": "hero-hotel-courtyard",
+    "stayPrimary": "room-warm-interior",
+    "staySecondary": "room-bedside-lamp",
+    "diningPrimary": "dining-breakfast-plate",
+    "diningDetail": "dining-plated-meal",
+    "poolPrimary": "pool-garden-loungers"
+  },
+  "photos": [
+    {
+      "id": "hero-hotel-courtyard",
+      "src": "assets/photos/hero-hotel-courtyard.jpg",
+      "category": "exterior",
+      "categoryLabel": "Exterior",
+      "caption": "The courtyard & entrance",
+      "alt": "Hotel Himakara courtyard with patterned paving, palms and the hotel entrance.",
+      "width": 219,
+      "height": 156,
+      "objectPosition": "50% 52%",
+      "sourceIndex": 29,
+      "sourceArchivePath": "Hotel Himakara - Google Maps/imgi_39_ANWiy9QQfzIS9bPHwgCnVb0lrjNZCBI-Ob2kayc3IaNuQQrRIAZM6Zn44iDCdbP91att_UBMMyW8SzD0_PAJpHkRsiTqMpyQI8QtudhM24Ng8K-wqqgSFwqV1JuX2GcYBggOkub6dQMH=w219-h156-n-k-no.jpg",
+      "duplicateSourceIndices": [
+        29
+      ]
+    },
+    {
+      "id": "exterior-blue-windows",
+      "src": "assets/photos/exterior-blue-windows.jpg",
+      "category": "exterior",
+      "categoryLabel": "Exterior",
+      "caption": "A first look at Himakara",
+      "alt": "White Hotel Himakara building with blue windows and green trees.",
+      "width": 219,
+      "height": 156,
+      "objectPosition": "50% 50%",
+      "sourceIndex": 21,
+      "sourceArchivePath": "Hotel Himakara - Google Maps/imgi_35_ANWiy9SptVlTvCaNN8NUxHp_1TYDgLzqp3IxHcEALMO42kd5cjohiKktLkwFZNSDwbpIpiaRUsdqrHM6xIWQs_bLlEKcl-VM6vsyAezTtX1RPUq19nruVQZpslmoS0JPZ9we5xC1WVP5=w219-h156-n-k-no.jpg",
+      "duplicateSourceIndices": [
+        21
+      ]
+    },
+    {
+      "id": "exterior-at-night",
+      "src": "assets/photos/exterior-at-night.jpg",
+      "category": "exterior",
+      "categoryLabel": "Exterior",
+      "caption": "Himakara after dusk",
+      "alt": "Hotel exterior illuminated at night, with blue windows and garden lighting.",
+      "width": 224,
+      "height": 298,
+      "objectPosition": "50% 50%",
+      "sourceIndex": 3,
+      "sourceArchivePath": "Hotel Himakara - Google Maps/imgi_12_ANWiy9ROJxxjdlUm_i3VTpaXDgkdWTZQ89FaMHoJl9rxIHQjuXEHTrRl2MBhZ0N_L2FIQhnP0OyEQ3EviehzW9FSGtFnTDNWSk7pLXn8QxaKI-4EtZLuWb1E0aBjVvbGvT1F9P09AloG=w224-h298-n-k-no.jpg",
+      "duplicateSourceIndices": [
+        3
+      ]
+    },
+    {
+      "id": "room-warm-interior",
+      "src": "assets/photos/room-warm-interior.jpg",
+      "category": "rooms",
+      "categoryLabel": "Rooms",
+      "caption": "Warm tones, thoughtful details",
+      "alt": "Guest room with a golden headboard, white bedding, folded towels and warm curtains.",
+      "width": 397,
+      "height": 298,
+      "objectPosition": "50% 50%",
+      "sourceIndex": 5,
+      "sourceArchivePath": "Hotel Himakara - Google Maps/imgi_17_ANWiy9RTUpf23FeeaOldwQk3QIgTjOEnmF3rEKIc0VMh8V5gPmFfZNHlPmsX3xohCOCY6KbUEqXVOZz1Hu_NM8z3Dfrba7coKng26Wv7jd7DfEHK552pamB-7uzgmUactE23Kvnd2LuS=w397-h298-k-no.jpg",
+      "duplicateSourceIndices": [
+        5,
+        39,
+        42
+      ]
+    },
+    {
+      "id": "room-bed-detail",
+      "src": "assets/photos/room-bed-detail.jpg",
+      "category": "rooms",
+      "categoryLabel": "Rooms",
+      "caption": "A welcoming room",
+      "alt": "Bed with white linens, folded towels and two gold cushions beneath a wall light.",
+      "width": 219,
+      "height": 275,
+      "objectPosition": "50% 50%",
+      "sourceIndex": 9,
+      "sourceArchivePath": "Hotel Himakara - Google Maps/imgi_30_ANWiy9RmCjZn4d98AfbGsb5Gw70FF111yaAhOl_oTbNLryH6nsNJnBFVgbkGPS0JTbeoJDPyMaPgXYwPniKWxbbILSb5GKZHk1q3hyzoCqTHpk6Stje9t2W9kbAS600mRClmdiAEXdu8=w219-h275-n-k-no.jpg",
+      "duplicateSourceIndices": [
+        7,
+        9
+      ]
+    },
+    {
+      "id": "room-earth-tones",
+      "src": "assets/photos/room-earth-tones.jpg",
+      "category": "rooms",
+      "categoryLabel": "Rooms",
+      "caption": "A quiet place to settle in",
+      "alt": "Guest room with earth-tone bedding, orange cushions, a wooden headboard and a bedside lamp.",
+      "width": 224,
+      "height": 298,
+      "objectPosition": "50% 50%",
+      "sourceIndex": 4,
+      "sourceArchivePath": "Hotel Himakara - Google Maps/imgi_13_ANWiy9TivJZvgPUjA7skh8tkmSfU4KCJyA5je68wj4saetW7lNm0XzfDBVUNuU3hLd5b4V282LdgES6XcgWUxtVlMAy_wv14fPchJ5sFWTOvTD2I8xjMj2FUUERxU2ZMT14uO5rxqoYL=w224-h298-n-k-no.jpg",
+      "duplicateSourceIndices": [
+        4,
+        11,
+        13
+      ]
+    },
+    {
+      "id": "room-daylight",
+      "src": "assets/photos/room-daylight.jpg",
+      "category": "rooms",
+      "categoryLabel": "Rooms",
+      "caption": "Soft light in the morning",
+      "alt": "Guest room with a golden headboard, light curtains, a chair, a plant and a standing fan.",
+      "width": 219,
+      "height": 156,
+      "objectPosition": "50% 50%",
+      "sourceIndex": 18,
+      "sourceArchivePath": "Hotel Himakara - Google Maps/imgi_34_ANWiy9RiVXOC1U68e-ktnGFG4tc7EeebjxEVQO-DqLQyaZlmiCaKmMjKQJmlUV4tObUkBQ5BDzfAoxBlaT2BakH4CkDtEgvIWD1yJdAt4Z2Q8ABKdapK2L1w36aY4_BcFfpa7RInub2CFg=w219-h156-n-k-no.jpg",
+      "duplicateSourceIndices": [
+        14,
+        18
+      ]
+    },
+    {
+      "id": "room-golden-headboard",
+      "src": "assets/photos/room-golden-headboard.jpg",
+      "category": "rooms",
+      "categoryLabel": "Rooms",
+      "caption": "Simple comforts",
+      "alt": "Guest bed with a golden headboard, light-colored cover and two gold cushions.",
+      "width": 219,
+      "height": 156,
+      "objectPosition": "50% 50%",
+      "sourceIndex": 22,
+      "sourceArchivePath": "Hotel Himakara - Google Maps/imgi_36_ANWiy9RmpAypB-xVHn52gGuFGmayJOZbHqwgrz08OL5G9UNle-cg2T-wMMGRRHrzPnkRUTZbxKe2zhpOl-z5EBWbA5uTbFgZQxql323XCd4Y8fZOb_bjXZCWAcai5klPmBHbAKYY_ZEZ=w219-h156-n-k-no.jpg",
+      "duplicateSourceIndices": [
+        20,
+        22
+      ]
+    },
+    {
+      "id": "room-bedside-lamp",
+      "src": "assets/photos/room-bedside-lamp.jpg",
+      "category": "rooms",
+      "categoryLabel": "Rooms",
+      "caption": "Room to unwind",
+      "alt": "Guest room with a pale bed cover, gold headboard, bedside lamp and framed pictures.",
+      "width": 219,
+      "height": 275,
+      "objectPosition": "50% 50%",
+      "sourceIndex": 27,
+      "sourceArchivePath": "Hotel Himakara - Google Maps/imgi_38_ANWiy9Tey6srmjUCXJgY-1apjWWgbRmhtEGriNCLSbRUL6zXqjXo1vX3WHFmz0CtLLv5TxwXzhRICWdwNQl3pGoChlNcZL1ffw_IBv_D6snuUj2mSBThWvsOcHeXVjV4StTVDeOLHyCABdwV2e1L=w219-h275-n-k-no.jpg",
+      "duplicateSourceIndices": [
+        25,
+        27
+      ]
+    },
+    {
+      "id": "room-tiled-interior",
+      "src": "assets/photos/room-tiled-interior.jpg",
+      "category": "rooms",
+      "categoryLabel": "Rooms",
+      "caption": "Another view of the rooms",
+      "alt": "Tiled guest room with two visible beds, chairs and a small table.",
+      "width": 219,
+      "height": 156,
+      "objectPosition": "50% 50%",
+      "sourceIndex": 31,
+      "sourceArchivePath": "Hotel Himakara - Google Maps/imgi_40_ANWiy9TxRMXCq4IpQ639s5FQROB7Q4D4epzfeYq-CqZeKtgeNvzhBY9021ClMz0v1FCFAUxHp1gcxkE0alkwNu4GEfcg1o87iS2WRlpVRbwwR7fOroTBtRshWK3I23vvJ_69p5aahnbRysxQl8F7=w219-h156-n-k-no.jpg",
+      "duplicateSourceIndices": [
+        31
+      ]
+    },
+    {
+      "id": "room-simple-interior",
+      "src": "assets/photos/room-simple-interior.jpg",
+      "category": "rooms",
+      "categoryLabel": "Rooms",
+      "caption": "Inside the rooms",
+      "alt": "Guest room with a wooden headboard, dark blue bedding detail and a white door.",
+      "width": 203,
+      "height": 114,
+      "objectPosition": "50% 50%",
+      "sourceIndex": 36,
+      "sourceArchivePath": "Hotel Himakara - Google Maps/imgi_43_ANWiy9QgixmtLREbhudEv7RQD-x1cvHIhxS1lJ9rlY0FMW5AiielpCir_KodetmQNnhwlBgJ_lj0bSKYaaqbTwnRJC5g6IyEC0AvH_svqPr6sXkCp059wfwlctg5w_Lc5r5wJSWeqmg=w203-h114-k-no.jpg",
+      "duplicateSourceIndices": [
+        36
+      ]
+    },
+    {
+      "id": "room-blue-and-cream",
+      "src": "assets/photos/room-blue-and-cream.jpg",
+      "category": "rooms",
+      "categoryLabel": "Rooms",
+      "caption": "A restful corner",
+      "alt": "Bed with a wooden headboard, cream cover, navy linens and white pillows.",
+      "width": 203,
+      "height": 114,
+      "objectPosition": "50% 50%",
+      "sourceIndex": 40,
+      "sourceArchivePath": "Hotel Himakara - Google Maps/imgi_46_ANWiy9QPRCYH5Fw9WXCGPgtzDMPxfdXlKw0h0-Wv3Npk9EE0VCVsxGdl3laHG4qJgLPQSoaBIgXNBqW4BStsEqKzmmIKnMzbx4fChvoAf3TEKzBe5P67SRtZbyn15XMkpl7Xw6bFSR9auQ=w203-h114-k-no.jpg",
+      "duplicateSourceIndices": [
+        40
+      ]
+    },
+    {
+      "id": "room-bathroom",
+      "src": "assets/photos/room-bathroom.jpg",
+      "category": "rooms",
+      "categoryLabel": "Rooms",
+      "caption": "Bathroom details",
+      "alt": "Bathroom with white and gray tiled walls, a shower, a toilet and a dark tiled floor.",
+      "width": 202,
+      "height": 360,
+      "objectPosition": "50% 50%",
+      "sourceIndex": 33,
+      "sourceArchivePath": "Hotel Himakara - Google Maps/imgi_41_ANWiy9Qw5WxDglche3p6qtZh8yimSxZ1ufeZW3IdPnOKseTgW3VPTI_a5u1Y__HCwVyVlTan3-M4FH8k2_l7rYTNUC6nJMEdGZCsMiN2k7eyhQjGRCLB4f8SKo_J4SNmItDf6vKyNdc=w203-h360-k-no.jpg",
+      "duplicateSourceIndices": [
+        33
+      ]
+    },
+    {
+      "id": "dining-breakfast-plate",
+      "src": "assets/photos/dining-breakfast-plate.jpg",
+      "category": "food-drinks",
+      "categoryLabel": "Food & Drinks",
+      "caption": "A place at the table",
+      "alt": "Plate of golden round breakfast breads beside green leaves and other dishes.",
+      "width": 224,
+      "height": 298,
+      "objectPosition": "50% 50%",
+      "sourceIndex": 2,
+      "sourceArchivePath": "Hotel Himakara - Google Maps/imgi_11_ANWiy9QY3SmH31n8fbjHyCY17RO4fIxf08PfbqkUel-PIITpWpjsP0u2wiJvjsUY94C3ISAfrQjvjfD0GKJveuLtMsQtZ8DbuLcOonUlq8a42hGecEBsANyYzJY-0M6_Q4qHMNNtEnRxCA=w224-h298-n-k-no.jpg",
+      "duplicateSourceIndices": [
+        2,
+        6
+      ]
+    },
+    {
+      "id": "dining-plated-meal",
+      "src": "assets/photos/dining-plated-meal.jpg",
+      "category": "food-drinks",
+      "categoryLabel": "Food & Drinks",
+      "caption": "Something to look forward to",
+      "alt": "Colorful plated meal with rice, vegetables, an egg and golden pieces.",
+      "width": 203,
+      "height": 203,
+      "objectPosition": "50% 50%",
+      "sourceIndex": 38,
+      "sourceArchivePath": "Hotel Himakara - Google Maps/imgi_43_ANWiy9SUscr2VWgJpx6oLjcUI8Xygz1_3jVXnfZbwwamVbO6XgmrvZRAF7dmEuPNc1APK-uHNBwEsjCyqlWxVaMXIMK5XeggNJ_55y-qPqaH_HbuyBXojaxfgnvhCr3CAHevPzvmrKEXpQ=w203-h203-k-no.jpg",
+      "duplicateSourceIndices": [
+        38
+      ]
+    },
+    {
+      "id": "dining-breakfast-spread",
+      "src": "assets/photos/dining-breakfast-spread.jpg",
+      "category": "food-drinks",
+      "categoryLabel": "Food & Drinks",
+      "caption": "Breakfast together",
+      "alt": "Breakfast dishes served on a table with a white jug and plates.",
+      "width": 219,
+      "height": 183,
+      "objectPosition": "50% 50%",
+      "sourceIndex": 10,
+      "sourceArchivePath": "Hotel Himakara - Google Maps/imgi_31_ANWiy9RR7fGydLcd0DikjgwUuZU4DoDZNrZw10BqiJ5-VSfpbbspfCHnohC0Qcy79DATWYze3uqXpwtGzHh71i4pE4CtqfPE_8Fr2G3yHelhG_IgQ9CRM8VA10QBtE-URG_814fZgtRi=w219-h183-n-k-no.jpg",
+      "duplicateSourceIndices": [
+        10
+      ]
+    },
+    {
+      "id": "dining-shared-table",
+      "src": "assets/photos/dining-shared-table.jpg",
+      "category": "food-drinks",
+      "categoryLabel": "Food & Drinks",
+      "caption": "Made for sharing",
+      "alt": "Plates of savory breakfast items set beside a stack of white plates.",
+      "width": 219,
+      "height": 156,
+      "objectPosition": "50% 50%",
+      "sourceIndex": 15,
+      "sourceArchivePath": "Hotel Himakara - Google Maps/imgi_33_ANWiy9TA08P0lxLEXFy6C5679wDtqh5GdOa20IpRgq-27OXlFXlrEDubfHMIXfijz43Iq-bjE53qRqbHqYMjILMJCFP5ILqyWOGKGIKPq_IFtq3A6vcT4w2P1BDiYeo5-8v-rRSw86fj=w219-h156-n-k-no.jpg",
+      "duplicateSourceIndices": [
+        12,
+        15
+      ]
+    },
+    {
+      "id": "dining-buffet-table",
+      "src": "assets/photos/dining-buffet-table.jpg",
+      "category": "food-drinks",
+      "categoryLabel": "Food & Drinks",
+      "caption": "At the restaurant",
+      "alt": "Restaurant table set with covered dishes, bread, vegetables and plates.",
+      "width": 219,
+      "height": 156,
+      "objectPosition": "50% 50%",
+      "sourceIndex": 19,
+      "sourceArchivePath": "Hotel Himakara - Google Maps/imgi_35_ANWiy9Q9Ek6-mOx_9lm8BtKH4cAicO8FX-GWch8ECHBQEfuk3QRnR2JkcZxATbRhZnmSk38HQ9fRb-dINbgUezSJgkdpoV0x7u2zDquEdVjcVk3sY2VF7l0f7WIQCXtR2gsi9RFlqRTMyQ=w219-h156-n-k-no.jpg",
+      "duplicateSourceIndices": [
+        17,
+        19
+      ]
+    },
+    {
+      "id": "dining-evening-table",
+      "src": "assets/photos/dining-evening-table.jpg",
+      "category": "food-drinks",
+      "categoryLabel": "Food & Drinks",
+      "caption": "An evening at the table",
+      "alt": "Dining table with a red cloth, drinks, glasses and dishes under blue room lighting.",
+      "width": 219,
+      "height": 366,
+      "objectPosition": "50% 50%",
+      "sourceIndex": 24,
+      "sourceArchivePath": "Hotel Himakara - Google Maps/imgi_37_ANWiy9S1gEorV5AGapt2opBlyry9h_gnMmwBbO7Z1h8F-RDBziXM60w2QNGuTyhJD-McHL5ZfM1jArwyvPdVlm49ZmM0A5YRv-0mDIl3B3xn7E9-jvWDSbHZYSTt6mbGl9QOvLvKlM4lNA=w219-h366-n-k-no.jpg",
+      "duplicateSourceIndices": [
+        24
+      ]
+    },
+    {
+      "id": "dining-bread-and-dish",
+      "src": "assets/photos/dining-bread-and-dish.jpg",
+      "category": "food-drinks",
+      "categoryLabel": "Food & Drinks",
+      "caption": "Fresh from the kitchen",
+      "alt": "Two white plates with a savory dish and sliced bread on a wooden table.",
+      "width": 219,
+      "height": 156,
+      "objectPosition": "50% 50%",
+      "sourceIndex": 28,
+      "sourceArchivePath": "Hotel Himakara - Google Maps/imgi_39_ANWiy9Qd8TOdEzTQkEQiMgH0nD80dZ9qJ--Ot1beN6GEo_sRDUBatClso6SUFpDwa24_zj4pDgXefv-7GoLnmr8R6rTKGq3Dfl6M7Oib6VhZ9WpJ6u6xXQph-u0ceSFazQkXU1s1_-tB=w219-h156-n-k-no.jpg",
+      "duplicateSourceIndices": [
+        26,
+        28
+      ]
+    },
+    {
+      "id": "dining-snack-tray",
+      "src": "assets/photos/dining-snack-tray.jpg",
+      "category": "food-drinks",
+      "categoryLabel": "Food & Drinks",
+      "caption": "A little something on the side",
+      "alt": "Round tray with plates of bananas, golden snacks and a red dipping sauce.",
+      "width": 202,
+      "height": 270,
+      "objectPosition": "50% 50%",
+      "sourceIndex": 30,
+      "sourceArchivePath": "Hotel Himakara - Google Maps/imgi_40_ANWiy9TS4-vwFhDaCaZDaSXAEXdt2ABK0UtJ-NxYkc_ruIy6XYqx3viydJfH0Qv9dxejdPmtidvVCi34qIXv_SOZNgVyZP2lfulIE1D8OCGSS7XTvPdpoIcLl_PmO5G3p1KtOFUONGU=w203-h270-k-no.jpg",
+      "duplicateSourceIndices": [
+        30
+      ]
+    },
+    {
+      "id": "dining-breakfast-tray",
+      "src": "assets/photos/dining-breakfast-tray.jpg",
+      "category": "food-drinks",
+      "categoryLabel": "Food & Drinks",
+      "caption": "Breakfast is included",
+      "alt": "Breakfast tray arranged with white plates, drinks, fruit and bread.",
+      "width": 202,
+      "height": 124,
+      "objectPosition": "50% 50%",
+      "sourceIndex": 34,
+      "sourceArchivePath": "Hotel Himakara - Google Maps/imgi_41_ANWiy9S9hMjtSF-aj7-qztEd9yjwUG2z6SXFU6Z_6hVfUVqmCliWr1LeUOcmRPmFv1W6uXM640kUdId_YXapwJWogLGsWI_TWgl-lTlnGF4Ph7WaL-4VWQpHOKpC4CgUfP3FDFfQLXcj7D_1vtw=w203-h124-k-no.jpg",
+      "duplicateSourceIndices": [
+        34
+      ]
+    },
+    {
+      "id": "dining-light-meal",
+      "src": "assets/photos/dining-light-meal.jpg",
+      "category": "food-drinks",
+      "categoryLabel": "Food & Drinks",
+      "caption": "A meal at Himakara",
+      "alt": "White plate with bread and a cooked dish on a wood-grain table.",
+      "width": 203,
+      "height": 152,
+      "objectPosition": "50% 50%",
+      "sourceIndex": 35,
+      "sourceArchivePath": "Hotel Himakara - Google Maps/imgi_42_ANWiy9TK1fbFmVV53sgcMWczmmsN89w-ItMP4GpEr2lkwY02Wa9H_s8Yhha1BvgS-l7Dz_71x6qvBSecc2zOux04u5Lde3RLjh8M3bYD-ET6hWss1J9w3J4peoJTO12Bq5b3d4zeyQfKlw=w203-h152-k-no.jpg",
+      "duplicateSourceIndices": [
+        35
+      ]
+    },
+    {
+      "id": "pool-tropical-garden",
+      "src": "assets/photos/pool-tropical-garden.jpg",
+      "category": "pool",
+      "categoryLabel": "Pool",
+      "caption": "By the water",
+      "alt": "Pale-blue outdoor pool surrounded by green trees and a tiled deck.",
+      "width": 224,
+      "height": 298,
+      "objectPosition": "50% 50%",
+      "sourceIndex": 1,
+      "sourceArchivePath": "Hotel Himakara - Google Maps/imgi_10_ANWiy9Roe6hSS87N94NKHHlgGSjHL1r7hoKgFqcpXohPkdiG7Zt_SAcHi42hmM0SUguhTgZMEwOcEoTCxD6P05XJw1v5nZd1vrExA4aBw52UDJKNq4knw1Q3Q7lHAgtS7Ry0RZbl_jhXXw=w224-h298-n-k-no.jpg",
+      "duplicateSourceIndices": [
+        1
+      ]
+    },
+    {
+      "id": "pool-garden-loungers",
+      "src": "assets/photos/pool-garden-loungers.jpg",
+      "category": "pool",
+      "categoryLabel": "Pool",
+      "caption": "Take a moment by the pool",
+      "alt": "Bright-blue pool with loungers, palms and tropical greenery along its edge.",
+      "width": 224,
+      "height": 298,
+      "objectPosition": "50% 50%",
+      "sourceIndex": 41,
+      "sourceArchivePath": "Hotel Himakara - Google Maps/imgi_6_ANWiy9SuWAx_JqxtfgueqAt9n7Xo2DXFbcd93Op9RAe15-dqKk4nMSQwIQsdRtIdhYP2xxHW5KdxDVfBbdWNC2sHat0qErau6ZfmjsAqH8H8Z8SS3MVyYrMMPPJQaQut8f_-Nqmnsw0vZg=w224-h298-n-k-no.jpg",
+      "duplicateSourceIndices": [
+        8,
+        41
+      ]
+    },
+    {
+      "id": "pool-ladder-and-palms",
+      "src": "assets/photos/pool-ladder-and-palms.jpg",
+      "category": "pool",
+      "categoryLabel": "Pool",
+      "caption": "A change of pace",
+      "alt": "Outdoor pool with a metal ladder, palms and the hotel building in the background.",
+      "width": 219,
+      "height": 183,
+      "objectPosition": "50% 50%",
+      "sourceIndex": 16,
+      "sourceArchivePath": "Hotel Himakara - Google Maps/imgi_33_ANWiy9TQgAdfrci_puGMe2HOlruihMksKrSlArt7qHw76PVvJxrpALPfix-MlwfnY5cnd_6Fz8iQn6nJznPqNvJT_X9q9GbAtr67eUrtmINePCXhnL3NXnmoDHDL9dxNN5WRO44Gwov7=w219-h183-n-k-no.jpg",
+      "duplicateSourceIndices": [
+        16
+      ]
+    },
+    {
+      "id": "pool-deck",
+      "src": "assets/photos/pool-deck.jpg",
+      "category": "pool",
+      "categoryLabel": "Pool",
+      "caption": "A poolside pause",
+      "alt": "Outdoor pool beside wooden loungers, greenery and a roofed building.",
+      "width": 203,
+      "height": 114,
+      "objectPosition": "50% 50%",
+      "sourceIndex": 32,
+      "sourceArchivePath": "Hotel Himakara - Google Maps/imgi_41_ANWiy9QoLF7f8PbQWvv-cJgWSJrQhoNBvKJYCAFYCQu72_R7D3zpZSzngFl5ZA5CR1md5onkDBXqEfZYUc9NygIHErDwSr4OR9pVKnON9DeO5YnIp73_pcIHjgW4esSMImJjW0ZlZBTw=w203-h114-k-no.jpg",
+      "duplicateSourceIndices": [
+        32
+      ]
+    },
+    {
+      "id": "exterior-garden-courtyard",
+      "src": "assets/photos/exterior-garden-courtyard.jpg",
+      "category": "exterior",
+      "categoryLabel": "Exterior",
+      "caption": "Green spaces around you",
+      "alt": "Leafy hotel courtyard with trees, planting and patterned paving.",
+      "width": 219,
+      "height": 156,
+      "objectPosition": "50% 50%",
+      "sourceIndex": 23,
+      "sourceArchivePath": "Hotel Himakara - Google Maps/imgi_37_ANWiy9RSeX6cfZqfkwHcd9SJTB1tDD7lY4lGmAWfbnIL9I3nOSoan9ExM2QHXPbhS4qph_-ZE4a9hOjQ8i2Co_yZX_2_D2zaTGYoo4B9Aq9BP8eTVlA69Q3hWFXIjD-43W3skv2IVQsRFQ=w219-h156-n-k-no.jpg",
+      "duplicateSourceIndices": [
+        23
+      ]
+    },
+    {
+      "id": "exterior-covered-walkway",
+      "src": "assets/photos/exterior-covered-walkway.jpg",
+      "category": "exterior",
+      "categoryLabel": "Exterior",
+      "caption": "Around the hotel",
+      "alt": "Covered hotel walkway with wooden doors, white pillars and greenery outside.",
+      "width": 203,
+      "height": 114,
+      "objectPosition": "50% 50%",
+      "sourceIndex": 37,
+      "sourceArchivePath": "Hotel Himakara - Google Maps/imgi_43_ANWiy9ST4MfNpWjoU3v5qJxwFlfTt6Kpms8kJOhlXatiwv1Z5irMzsAgAIdZFga0OGXPajtTgXOt85Wcp6q9X_nnu5k-QGvDZwYwklPW6uoDsRbjGDHHX0U-qXy_fiud_btG64pjsijn=w203-h114-k-no.jpg",
+      "duplicateSourceIndices": [
+        37
+      ]
+    },
+    {
+      "id": "exterior-garden-path",
+      "src": "assets/photos/exterior-garden-path.jpg",
+      "category": "exterior",
+      "categoryLabel": "Exterior",
+      "caption": "A greener corner",
+      "alt": "Lush plants and trees beside a paved garden path at the hotel.",
+      "width": 224,
+      "height": 298,
+      "objectPosition": "50% 50%",
+      "sourceIndex": 43,
+      "sourceArchivePath": "Hotel Himakara - Google Maps/imgi_9_ANWiy9SoCIqy6TiGuDmhUwrLWAeVjs7Z1ujxWmIW5ZGzq5C-VvAC88JRWXNdvcEk8WqRtA46ilh_rhl2dJgsygWWfH5IvnGI1WL8auiGAWuJLwrKkd3yg835H2bKIvGYWa8m6WXohe3X=w224-h298-n-k-no.jpg",
+      "duplicateSourceIndices": [
+        43
+      ]
+    }
+  ]
+}

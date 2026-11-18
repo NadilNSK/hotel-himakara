@@ -1,0 +1,8 @@
+assets-review/originals/
+assets-review/high-res-originals/
+assets-review/high-res-small/
+*.tar.gz
+*.tar
+*.log
+node_modules/
+.preview/
